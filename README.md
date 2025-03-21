@@ -12,7 +12,6 @@ This repository contains SQL scripts for managing and analyzing a database. The 
 
 ## 📜 File Details  
 
-### 🔹 `18-02-2025.sql`  
 - Contains SQL scripts for database setup and data analysis.  
 - Can be used to **create**, **populate**, and **query** the database.  
 - Ensure you have a **MySQL / PostgreSQL / SQL Server** environment to execute the script.  
